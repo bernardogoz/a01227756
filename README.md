@@ -1,2 +1,4 @@
 # a01227756
-Todo los proyectos relacionados con la materia de "INTRODUCCION A MEDIOS INTERACTIVOS"
+Problematica Proyecto 
+
+<h1> Como fomentar el Desarrollo Urbano sin Gentrificar</h1>
